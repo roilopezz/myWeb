@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4ec4764.chunk.css",
-    "main.js": "/static/js/main.b44152c2.chunk.js",
-    "main.js.map": "/static/js/main.b44152c2.chunk.js.map",
+    "main.css": "/static/css/main.d0fecdc8.chunk.css",
+    "main.js": "/static/js/main.89d6843f.chunk.js",
+    "main.js.map": "/static/js/main.89d6843f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7dcd1e2b.js",
     "runtime-main.js.map": "/static/js/runtime-main.7dcd1e2b.js.map",
     "static/css/2.0ef15d21.chunk.css": "/static/css/2.0ef15d21.chunk.css",
@@ -12,10 +12,10 @@
     "static/js/3.899a8515.chunk.js.map": "/static/js/3.899a8515.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0ef15d21.chunk.css.map": "/static/css/2.0ef15d21.chunk.css.map",
-    "static/css/main.c4ec4764.chunk.css.map": "/static/css/main.c4ec4764.chunk.css.map",
+    "static/css/main.d0fecdc8.chunk.css.map": "/static/css/main.d0fecdc8.chunk.css.map",
     "static/js/2.7514567b.chunk.js.LICENSE.txt": "/static/js/2.7514567b.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.ea6f3dfe.woff",
-    "static/media/projects.scss": "/static/media/social-net.e656af69.png",
+    "static/media/projects.scss": "/static/media/social-net.9bb81ca8.png",
     "static/media/nav.scss": "/static/media/showcase.9ad424cd.jpg",
     "static/media/קורות חיים רועי לופז.1fb948bc.pdf": "/static/media/קורות חיים רועי לופז.1fb948bc.pdf"
   },
@@ -23,7 +23,7 @@
     "static/js/runtime-main.7dcd1e2b.js",
     "static/css/2.0ef15d21.chunk.css",
     "static/js/2.7514567b.chunk.js",
-    "static/css/main.c4ec4764.chunk.css",
-    "static/js/main.b44152c2.chunk.js"
+    "static/css/main.d0fecdc8.chunk.css",
+    "static/js/main.89d6843f.chunk.js"
   ]
 }
