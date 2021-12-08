@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.21c42c01.chunk.css",
-    "main.js": "/static/js/main.4f89078c.chunk.js",
-    "main.js.map": "/static/js/main.4f89078c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2d872c98.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2d872c98.js.map",
+    "main.css": "/static/css/main.c6c5cec6.chunk.css",
+    "main.js": "/static/js/main.83a544a6.chunk.js",
+    "main.js.map": "/static/js/main.83a544a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0fa91420.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0fa91420.js.map",
     "static/css/2.0ef15d21.chunk.css": "/static/css/2.0ef15d21.chunk.css",
-    "static/js/2.8f1f34eb.chunk.js": "/static/js/2.8f1f34eb.chunk.js",
-    "static/js/2.8f1f34eb.chunk.js.map": "/static/js/2.8f1f34eb.chunk.js.map",
-    "static/js/3.e8468260.chunk.js": "/static/js/3.e8468260.chunk.js",
-    "static/js/3.e8468260.chunk.js.map": "/static/js/3.e8468260.chunk.js.map",
+    "static/js/2.773c3019.chunk.js": "/static/js/2.773c3019.chunk.js",
+    "static/js/2.773c3019.chunk.js.map": "/static/js/2.773c3019.chunk.js.map",
+    "static/js/3.838d1a22.chunk.js": "/static/js/3.838d1a22.chunk.js",
+    "static/js/3.838d1a22.chunk.js.map": "/static/js/3.838d1a22.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0ef15d21.chunk.css.map": "/static/css/2.0ef15d21.chunk.css.map",
-    "static/css/main.21c42c01.chunk.css.map": "/static/css/main.21c42c01.chunk.css.map",
-    "static/js/2.8f1f34eb.chunk.js.LICENSE.txt": "/static/js/2.8f1f34eb.chunk.js.LICENSE.txt",
+    "static/css/main.c6c5cec6.chunk.css.map": "/static/css/main.c6c5cec6.chunk.css.map",
+    "static/js/2.773c3019.chunk.js.LICENSE.txt": "/static/js/2.773c3019.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.ea6f3dfe.woff",
-    "static/media/projects.scss": "/static/media/social-net.9bb81ca8.png",
+    "static/media/cosmetic-web.815207b5.png": "/static/media/cosmetic-web.815207b5.png",
     "static/media/roiLopez resume.7050179f.pdf": "/static/media/roiLopez resume.7050179f.pdf",
-    "static/media/nav.scss": "/static/media/showcase.9ad424cd.jpg"
+    "static/media/nav.scss": "/static/media/showcase.9ad424cd.jpg",
+    "static/media/social-net.9bb81ca8.png": "/static/media/social-net.9bb81ca8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d872c98.js",
+    "static/js/runtime-main.0fa91420.js",
     "static/css/2.0ef15d21.chunk.css",
-    "static/js/2.8f1f34eb.chunk.js",
-    "static/css/main.21c42c01.chunk.css",
-    "static/js/main.4f89078c.chunk.js"
+    "static/js/2.773c3019.chunk.js",
+    "static/css/main.c6c5cec6.chunk.css",
+    "static/js/main.83a544a6.chunk.js"
   ]
 }
