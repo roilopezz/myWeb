@@ -1,30 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.bdd8f665.chunk.css",
-    "main.js": "/static/js/main.105daa89.chunk.js",
-    "main.js.map": "/static/js/main.105daa89.chunk.js.map",
+    "main.js": "/static/js/main.301cc186.chunk.js",
+    "main.js.map": "/static/js/main.301cc186.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0fa91420.js",
     "runtime-main.js.map": "/static/js/runtime-main.0fa91420.js.map",
     "static/css/2.0ef15d21.chunk.css": "/static/css/2.0ef15d21.chunk.css",
-    "static/js/2.773c3019.chunk.js": "/static/js/2.773c3019.chunk.js",
-    "static/js/2.773c3019.chunk.js.map": "/static/js/2.773c3019.chunk.js.map",
+    "static/js/2.8d52fd58.chunk.js": "/static/js/2.8d52fd58.chunk.js",
+    "static/js/2.8d52fd58.chunk.js.map": "/static/js/2.8d52fd58.chunk.js.map",
     "static/js/3.838d1a22.chunk.js": "/static/js/3.838d1a22.chunk.js",
     "static/js/3.838d1a22.chunk.js.map": "/static/js/3.838d1a22.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0ef15d21.chunk.css.map": "/static/css/2.0ef15d21.chunk.css.map",
     "static/css/main.bdd8f665.chunk.css.map": "/static/css/main.bdd8f665.chunk.css.map",
-    "static/js/2.773c3019.chunk.js.LICENSE.txt": "/static/js/2.773c3019.chunk.js.LICENSE.txt",
+    "static/js/2.8d52fd58.chunk.js.LICENSE.txt": "/static/js/2.8d52fd58.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.ea6f3dfe.woff",
     "static/media/cosmetic-web.815207b5.png": "/static/media/cosmetic-web.815207b5.png",
-    "static/media/roiLopez resume.5ca76060.pdf": "/static/media/roiLopez resume.5ca76060.pdf",
+    "static/media/portfolio.6bec6509.png": "/static/media/portfolio.6bec6509.png",
+    "static/media/roiLopez resume.116a9c1d.pdf": "/static/media/roiLopez resume.116a9c1d.pdf",
     "static/media/nav.scss": "/static/media/showcase.9ad424cd.jpg",
-    "static/media/social-net.b7c41290.png": "/static/media/social-net.b7c41290.png"
+    "static/media/social-net.b7c41290.png": "/static/media/social-net.b7c41290.png",
+    "static/media/talWeb.0c53a837.png": "/static/media/talWeb.0c53a837.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0fa91420.js",
     "static/css/2.0ef15d21.chunk.css",
-    "static/js/2.773c3019.chunk.js",
+    "static/js/2.8d52fd58.chunk.js",
     "static/css/main.bdd8f665.chunk.css",
-    "static/js/main.105daa89.chunk.js"
+    "static/js/main.301cc186.chunk.js"
   ]
 }
