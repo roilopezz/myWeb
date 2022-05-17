@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.eb74293c.chunk.css",
-    "main.js": "/static/js/main.b3e14de3.chunk.js",
-    "main.js.map": "/static/js/main.b3e14de3.chunk.js.map",
+    "main.js": "/static/js/main.f91fac7b.chunk.js",
+    "main.js.map": "/static/js/main.f91fac7b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0fa91420.js",
     "runtime-main.js.map": "/static/js/runtime-main.0fa91420.js.map",
     "static/css/2.0ef15d21.chunk.css": "/static/css/2.0ef15d21.chunk.css",
@@ -16,10 +16,12 @@
     "static/js/2.8d52fd58.chunk.js.LICENSE.txt": "/static/js/2.8d52fd58.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.ea6f3dfe.woff",
     "static/media/cosmetic-web.e3e293d4.png": "/static/media/cosmetic-web.e3e293d4.png",
+    "static/media/muonlineweb.13dbad4d.png": "/static/media/muonlineweb.13dbad4d.png",
     "static/media/portfolio.6bec6509.png": "/static/media/portfolio.6bec6509.png",
-    "static/media/roiLopez Resume.fbfbdf81.pdf": "/static/media/roiLopez Resume.fbfbdf81.pdf",
+    "static/media/roiLopez Resume.cb7efbc1.pdf": "/static/media/roiLopez Resume.cb7efbc1.pdf",
     "static/media/nav.scss": "/static/media/showcase.9ad424cd.jpg",
     "static/media/social-net.b7c41290.png": "/static/media/social-net.b7c41290.png",
+    "static/media/soon.e84e1b92.png": "/static/media/soon.e84e1b92.png",
     "static/media/talWeb.0c53a837.png": "/static/media/talWeb.0c53a837.png"
   },
   "entrypoints": [
@@ -27,6 +29,6 @@
     "static/css/2.0ef15d21.chunk.css",
     "static/js/2.8d52fd58.chunk.js",
     "static/css/main.eb74293c.chunk.css",
-    "static/js/main.b3e14de3.chunk.js"
+    "static/js/main.f91fac7b.chunk.js"
   ]
 }
