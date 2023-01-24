@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.eb74293c.chunk.css",
-    "main.js": "/static/js/main.679705f9.chunk.js",
-    "main.js.map": "/static/js/main.679705f9.chunk.js.map",
+    "main.js": "/static/js/main.8747d59f.chunk.js",
+    "main.js.map": "/static/js/main.8747d59f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0fa91420.js",
     "runtime-main.js.map": "/static/js/runtime-main.0fa91420.js.map",
     "static/css/2.0ef15d21.chunk.css": "/static/css/2.0ef15d21.chunk.css",
@@ -18,7 +18,7 @@
     "static/media/cosmetic-web.e3e293d4.png": "/static/media/cosmetic-web.e3e293d4.png",
     "static/media/muonlineweb.13dbad4d.png": "/static/media/muonlineweb.13dbad4d.png",
     "static/media/portfolio.6bec6509.png": "/static/media/portfolio.6bec6509.png",
-    "static/media/roiLopez Resume.0ac5fec7.pdf": "/static/media/roiLopez Resume.0ac5fec7.pdf",
+    "static/media/roiLopez Resume.9376bc8a.pdf": "/static/media/roiLopez Resume.9376bc8a.pdf",
     "static/media/nav.scss": "/static/media/showcase.9ad424cd.jpg",
     "static/media/social-net.b7c41290.png": "/static/media/social-net.b7c41290.png",
     "static/media/soon.e84e1b92.png": "/static/media/soon.e84e1b92.png",
@@ -29,6 +29,6 @@
     "static/css/2.0ef15d21.chunk.css",
     "static/js/2.e0ddb664.chunk.js",
     "static/css/main.eb74293c.chunk.css",
-    "static/js/main.679705f9.chunk.js"
+    "static/js/main.8747d59f.chunk.js"
   ]
 }
